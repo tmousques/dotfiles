@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thomas.mousques@gmail.com
+	name = thomas mousques
